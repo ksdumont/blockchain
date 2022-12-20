@@ -37,4 +37,4 @@ To check the validity of the blockchain, you can use the is_valid_proof method:
 
 
 
-### Feel free to fork this repository and try it on your local machine
+### Feel free to clone this repository and try it on your local machine
